@@ -1,0 +1,6 @@
+{
+  "name": "Undangan Pernikahan Fhariz dan Aisyah",
+  "description": "Premium digital wedding invitation for Fhariz and Aisyah. Minimalist, modern, and elegant design with smooth animations and music.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
